@@ -28,6 +28,7 @@ import { AppComponent } from './app.component';
     HttpClientModule,
     BrowserAnimationsModule,
     ButtonModule
+    
   ],
   providers: [
     CarService
